@@ -14,7 +14,7 @@
 <a href="Products">Add Products</a><br>
 <a href="viewproduct">View Products List</a><br>
 <a href="viewsupplier">View suppliers List</a><br>
-
+<a href="viewsupplier">View Category List</a><br>
 
 </body>
 </html>

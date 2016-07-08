@@ -97,14 +97,15 @@ public class HomeController {
 	}
 	
 	//view suppliers
-	@RequestMapping("/viewsuppliers")
+	@RequestMapping("/viewsupplier")
 	public ModelAndView viewsuppliers()
 	{
-		List<ProductModel> arr=ps.getProductList();
+		List<SupplierModel> arr=ss.getSupplierList();
 		Gson gson=new Gson();
 		String json=gson.toJson(arr);
-		return new ModelAndView("productslist","data",gson.toJson(arr));
+		return new ModelAndView("supplierslist","data",gson.toJson(arr));
 	}
+
 	
 	//Products
 	@RequestMapping("/Products")
