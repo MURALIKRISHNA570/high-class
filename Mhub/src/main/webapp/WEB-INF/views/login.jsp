@@ -5,7 +5,7 @@
 </title>
 </head>
 <body background="">
-<center><h3><b><font size="6">Bikeshow</font></b></h3></center>
+<center><h3><b><font size="6">MOBILE ACCESORIES</font></b></h3></center>
 <form action="adminhome" method="get"><br>
 <center><b>USERID:</b><input type="text" name="userid"><br></center>
 <center><br><b>PASSWORD:</b><input type="password" name="password"><br></center>
