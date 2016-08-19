@@ -32,7 +32,7 @@ public class AdminProduct {
     @RequestMapping("/product/addProduct")
     public String addProduct(Model model){
         Product product = new Product();
-        product.setProductCategory("instrument");
+        product.setProductCategory("cricketkit");
         product.setProductCondition("new");
         product.setProductStatus("active");
 

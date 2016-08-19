@@ -15,10 +15,10 @@
 <div class="container-wrapper">
     <div class="container">
         <div class="page-header">
-            <h1>Product Inventory Page</h1>
+            <h1>Product  Page</h1>
 
 
-            <p class="lead">This is the product inventory page:</p>
+            <p class="lead">This is the product  page:</p>
 
         <table class="table table-striped table-hover">
             <thead>

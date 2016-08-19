@@ -24,9 +24,9 @@
 
             <div class="form-group">
                 <label for="category">Category</label>
-                <label class="checkbox-inline"><form:radiobutton path="productCategory" id="category" value="instrument" />Instrument</label>
-                <label class="checkbox-inline"><form:radiobutton path="productCategory" id="category" value="record" />Record</label>
-                <label class="checkbox-inline"><form:radiobutton path="productCategory" id="category" value="accessory" />Accessory</label>
+                <label class="checkbox-inline"><form:radiobutton path="productCategory" id="category" value="cricketkit" />cricketkit</label>
+                <label class="checkbox-inline"><form:radiobutton path="productCategory" id="category" value="jersey" />jersey</label>
+                <label class="checkbox-inline"><form:radiobutton path="productCategory" id="category" value="shoes" />shoes</label>
             </div>
 
             <div class="form-group">

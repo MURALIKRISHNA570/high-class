@@ -33,8 +33,8 @@
                     <img class="third-slide home-image " src="<c:url value="/resources/images/back3.jpg" />" alt="Third slide">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1>It's A Jazz Affair</h1>
-                            <p>Through ups and downs, Somehow I manage to survive in life.</p>
+                            <h1>It's A JERSEY</h1>
+                            <p>comfortable to wear</p>
                         </div>
                     </div>
                 </div>
@@ -59,11 +59,11 @@
             <!-- Three columns of text below the carousel -->
             <div class="row">
                 <div class="col-lg-4">
-                    <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=Instrument" />" role="button">
-                        <img class="img-circle" src="<c:url value="/resources/images/instrument.jpg"/>" alt="Instrument Image" width="140" height="140">
+                    <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=cricketkit" />" role="button">
+                        <img class="img-circle" src="<c:url value="/resources/images/cricketkit.jpg"/>" alt="cricketkit Image" width="140" height="140">
                     </a>
 
-                    <h2>bat:</h2>
+                    <h2>cricketkit:</h2>
                     <p>Well crafted and delicate bat</p>
 
                 </div>
@@ -71,23 +71,23 @@
 
 
                 <div class="col-lg-4">
-                    <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=Record" />" role="button">
-                        <img class="img-circle" src="<c:url value="/resources/images/record.jpg"/>" alt="Instrument Image" width="140" height="140">
+                    <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=jersey" />" role="button">
+                        <img class="img-circle" src="<c:url value="/resources/images/jersey.jpg"/>" alt="jerseyImage" width="140" height="140">
                     </a>
 
-                    <h2>GLUOSE:</h2>
+                    <h2>jersey:</h2>
                     <p>super quality </p>
 
                 </div>
 
 
                 <div class="col-lg-4">
-                    <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=Accessory" />" role="button">
-                        <img class="img-circle" src="<c:url value="/resources/images/accessory.jpg"/>" alt="Instrument Image" width="140" height="140">
+                    <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=shoes" />" role="button">
+                        <img class="img-circle" src="<c:url value="/resources/images/shoes.jpg"/>" alt="shoes" width="140" height="140">
                     </a>
 
-                    <h2>standard bats:</h2>
-                    <p>good to handle</p>
+                    <h2>shoes:</h2>
+                    <p>feel comfortable</p>
 
                 </div>
             </div>
