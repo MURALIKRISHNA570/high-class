@@ -73,7 +73,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>4.2.0.Final</version>
+            <version>5.3.5.Final</version>
         </dependency>
         <dependency>
             <groupId>javax.validation</groupId>
